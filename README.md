@@ -18,6 +18,7 @@ This project is a quiz game built with an Arduino, where questions and options a
 3. Connect the Green LED to pin 13 and the Red LED to pin 6.
 4. Connect the Buzzer to pin 1.
 
+
 ## Code Overview
 
 The code initializes an array of quiz questions, with each question containing:
